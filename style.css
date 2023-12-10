@@ -15,7 +15,11 @@ header {
 section {
     max-width: 800px;
     margin: 20px auto;
+<<<<<<< HEAD
     padding: 22px;
+=======
+    padding: 20px;
+>>>>>>> 221cc349ddbd9bcae962d957c913f8db0d632aab
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
